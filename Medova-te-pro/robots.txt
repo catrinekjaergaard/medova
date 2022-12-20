@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /mobil-menu.html 
-Disallow: /mobil-menu-2.html
